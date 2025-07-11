@@ -22,10 +22,10 @@ The token metadata for Metaplex Metadata Schema is in the following format:
 
 ```json
 {
-  "name": "TOKEN_NAME", 
-  "symbol": "TOKEN_SYMBOL",
-  "uri": "TOKEN_URI",
-  "sellerFeeBasisPoints": 0,
+  "name": "showspeed", 
+  "symbol": "showspeed",
+  "uri": "8xoVsZUcQEVumV4xbwSxQDSBxBDC12DKfswN39oGpump",
+  "sellerFeeBasisPoints": 9,
   "creators": null,
   "collection": null,
   "uses": null
@@ -36,10 +36,12 @@ The `TOKEN_URI` must point to a file with the following format:
 
 ```json
 {
-  "name": "TOKEN_NAME",
-  "symbol": "TOKEN_SYMBOL",
-  "description": "TOKEN_DESC",
-  "image": "TOKEN_IMAGE_URL"
+  "name": "showspeed",
+  "symbol": "showspeed",
+  "description": "SPEED is flying fast. No presale, no limits.
+Hesitate and miss the ride.
+Jump in now or watch from behind.",
+  "image": "https://iili.io/FGBdZ1j.png"
 }
 ```
 
