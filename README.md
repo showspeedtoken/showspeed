@@ -38,9 +38,7 @@ The `TOKEN_URI` must point to a file with the following format:
 {
   "name": "showspeed",
   "symbol": "showspeed",
-  "description": "SPEED is flying fast. No presale, no limits.
-Hesitate and miss the ride.
-Jump in now or watch from behind.",
+  "description": "speed is flying fast",
   "image": "https://iili.io/FGBdZ1j.png"
 }
 ```
